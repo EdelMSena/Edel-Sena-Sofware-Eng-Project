@@ -1,7 +1,7 @@
 apply plugin: 'java'
-apply plugin: 'eclipse'
+apply plugin: 'visual studio code'
 
-eclipse.project.name = 'FillThisIn' 
+eclipse.project.name = 'Checkpoint1' 
 
 sourceSets {
 	main {
